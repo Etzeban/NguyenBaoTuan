@@ -5,6 +5,7 @@
 
   - [Smart Watering System](https://www.rmitvn-showcase.com/calico)
   - [Quadcopter Drone](https://github.com/Etzeban/QuadcopterDrone)
+  - [Design For Manual Assembly Snap-fit Bottle Cap](https://github.com/Etzeban/Snap-fitCap)
 
 
 <h2>📺 Popular YouTube Videos</h2>
