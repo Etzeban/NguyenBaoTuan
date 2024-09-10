@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tuan! <br/>
+<h1>Hi, I'm Nguyen Bao Tuan <br/>
 
 <h2>👨‍💻 Personal Engineering Projects:</h2>
 
