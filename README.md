@@ -7,7 +7,7 @@
   - [Quadcopter drone](https://github.com/Etzeban/QuadcopterDrone)
   - [Design for manual assembly snap-fit bottle cap](https://github.com/Etzeban/Snap-fitCap)
   - [Developing a gravity selector for bottle cap sorting](https://github.com/Etzeban/BottleCapSorting)
-
+  - [Design switch voltage regulator](https://github.com/Etzeban/SwitchVoltageRegulator)
 
 
 
