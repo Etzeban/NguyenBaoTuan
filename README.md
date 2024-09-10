@@ -4,6 +4,7 @@
 
 
   - [Smart Watering System](https://www.rmitvn-showcase.com/calico)
+  - [Quadcopter Drone](https://github.com/Etzeban/QuadcopterDrone)
 
 
 <h2>📺 Popular YouTube Videos</h2>
