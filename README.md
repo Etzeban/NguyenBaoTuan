@@ -3,9 +3,9 @@
 <h2>👨‍💻 Personal Engineering Projects:</h2>
 
 
-  - [Smart Watering System](https://www.rmitvn-showcase.com/calico)
-  - [Quadcopter Drone](https://github.com/Etzeban/QuadcopterDrone)
-  - [Design For Manual Assembly Snap-fit Bottle Cap](https://github.com/Etzeban/Snap-fitCap)
+  - [Smart watering system](https://www.rmitvn-showcase.com/calico)
+  - [Quadcopter drone](https://github.com/Etzeban/QuadcopterDrone)
+  - [Design for manual assembly snap-fit bottle cap](https://github.com/Etzeban/Snap-fitCap)
   - [Developing a gravity selector for bottle cap sorting](https://github.com/Etzeban/BottleCapSorting)
 
 
