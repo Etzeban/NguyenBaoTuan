@@ -3,7 +3,7 @@
 <h2>👨‍💻 Personal Engineering Projects:</h2>
 
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Smart Watering System](https://www.rmitvn-showcase.com/calico)
 
 
 <h2>📺 Popular YouTube Videos</h2>
