@@ -8,7 +8,7 @@
   - [Design for manual assembly snap-fit bottle cap](https://github.com/Etzeban/Snap-fitCap)
   - [Developing a gravity selector for bottle cap sorting](https://github.com/Etzeban/BottleCapSorting)
   - [Design switch voltage regulator](https://github.com/Etzeban/SwitchVoltageRegulator)
-
+  - [Design a gravity racer](https://github.com/Etzeban/GravityRacer)
 
 
 <h2> 🤳 Connect with me:</h2>
