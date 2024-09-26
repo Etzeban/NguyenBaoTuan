@@ -9,7 +9,7 @@
   - [Developing a gravity selector for bottle cap sorting](https://github.com/Etzeban/BottleCapSorting)
   - [Design switch voltage regulator](https://github.com/Etzeban/SwitchVoltageRegulator)
   - [Design a gravity racer](https://github.com/Etzeban/GravityRacer)
-
+  - [Material design for a submersible](https://github.com/Etzeban/MaterialSubmersible)
 
 <h2> 🤳 Connect with me:</h2>
 
