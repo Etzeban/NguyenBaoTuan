@@ -7,10 +7,11 @@
   - [Quadcopter drone](https://github.com/Etzeban/QuadcopterDrone)
   - [Design for manual assembly snap-fit bottle cap](https://github.com/Etzeban/Snap-fitCap)
   - [Developing a gravity selector for bottle cap sorting](https://github.com/Etzeban/BottleCapSorting)
+  - [Design blow mold for water bottles manufacture](https://github.com/Etzeban/BlowMoldingBottle)
   - [Design switch voltage regulator](https://github.com/Etzeban/SwitchVoltageRegulator)
   - [Design a gravity racer](https://github.com/Etzeban/GravityRacer)
   - [Material design for a submersible](https://github.com/Etzeban/MaterialSubmersible)
-
+  - [Design a bridge made of Acrylic](https://github.com/Etzeban/BridgeDesign)
 <h2> 🤳 Connect with me:</h2>
 
 
