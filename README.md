@@ -4,6 +4,11 @@
 
 
   - [Smart watering system](https://github.com/Etzeban/SmartWateringSystem)
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/gLEMYJp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
   - [Quadcopter drone](https://github.com/Etzeban/QuadcopterDrone)
   - [Design for manual assembly snap-fit bottle cap](https://github.com/Etzeban/Snap-fitCap)
   - [Developing a gravity selector for bottle cap sorting](https://github.com/Etzeban/BottleCapSorting)
