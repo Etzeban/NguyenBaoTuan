@@ -41,7 +41,7 @@
   - [Design switch voltage regulator](https://github.com/Etzeban/SwitchVoltageRegulator)
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/LtvIhvV.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dGsQM0B.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
   
